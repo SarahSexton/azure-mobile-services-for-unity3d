@@ -21,4 +21,3 @@ Bitrave.Azure.Windows8.TestApp and Bitrave.Azure.WindowsPhone8.TestApp are just 
 Building is simple, just hit build.  Make sure you have the dependencies from Nuget.  You will want to grab the latest JSON.NET and RestSharp, in addition to the Azure Mobile Services SDK.
 
 When you build, the files get copied across to the Output folder.  The Plugins folder in this folder needs to be copied across to your Unity/Assets folder.
-
