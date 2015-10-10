@@ -4,7 +4,7 @@ azure-mobile-services-for-unity3d
 The solution is broken up into a few projects, with shared source.  The following covers briefly to what they are, and how to build the project.
 
 **Bitrave.Azure.Editor**
-This is the Azure client for running inside the Unity Editor.  It currently is synchronous, and doesn't have a full feature set.  It's handy for testing against real data sets.  The plan is to make it fully featured at some point.
+This is the Azure client for running inside the Unity Editor. It currently is synchronous, and doesn't have a full feature set. It's handy for testing against real data sets.The plan is to make it fully featured at some point.
 
 **RestSharp.Stub**
 This project is a stub to get around building out of Unity for Windows Phone 8.  It can be deleted before deploying to the phone.
